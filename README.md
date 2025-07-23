@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 - 💻 Languages: Python, HTML, CSS
 - ⚙️ Tools: Git, GitHub, VS Code
-- 🌐 Exploring: Django, Flask (backend frameworks)
+- 🌐 Exploring: Pandas & Numpy(Libraries)
 
 
 ## 📚 Current Focus

@@ -7,7 +7,8 @@ Currently learning and growing by building real world projects and exploring LLM
 I believe in learning from the best  and I’m always eager to improve my skills, collaborate with developers, and contribute to meaningful open-source work.
 
 # Tech Stack
--  Languages: Python, MySql , Pandas, Numpy, Matplotlib
+-  Languages: Python, MySql , Pandas, Flask
+-  Libraries: Numpy, Matplotlib, Pandas
 -  Tools: Git, GitHub, VS Code, Jp Notebook
 
 # Current Focus

@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Moiz Ahmed!
 
-I'm a Software Engineering student passionate about **BUILDING PROJECTS** and writing clean, efficient code.
+I'm a Backend Developer passionate about **BUILDING PROJECTS** and writing clean, efficient code.
 
 Currently learning and growing by building real world projects and exploring LLM, and Power BI
 

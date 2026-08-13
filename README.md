@@ -2,7 +2,7 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,50:071D2B,100:00C6FF&height=220&section=header&text=MOIZ%20AHMED&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20DATA%20SCIENCE%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=17&descColor=7DE3FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?stype=waving&color=0:050A0F,50:071D2B,100:00C6FF&height=220&section=header&text=MOIZ%20AHMED&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20DATA%20SCIENCE%20%7C%20&descAlignY=58&descSize=17&descColor=7DE3FF" width="100%"/>
 
 ### `Turning Data → Intelligence → Solutions`
 
@@ -13,7 +13,7 @@
   <a href="https://moizahmedarain.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A0F14?style=for-the-badge&logo=google-chrome&logoColor=00C6FF"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/moizahmedarain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A0F14?style=for-the-badge&logo=linkedin&logoColor=00C6FF"/>
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 ## 🧠 AI/ML × 📊 Data Science
 
-I'm a **Software Engineering student** focused on building practical systems at the intersection of **Artificial Intelligence, Machine Learning, Data Science and Software Engineering**.
+I'm a Software Engineer focused on building practical systems at the intersection of **Artificial Intelligence, Machine Learning, Data Science, and Software Engineering**.
 
 I enjoy taking a problem from:
 

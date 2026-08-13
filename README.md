@@ -33,29 +33,17 @@ I enjoy taking a problem from:
 and turning it into something people can actually use.
 
 ```text
-                 ┌──────────────────┐
-                 │      RAW DATA    │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ DATA PROCESSING  │
-                 │ Pandas • NumPy   │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   ML / ANALYSIS  │
-                 │ Sklearn • TF     │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ EVALUATION       │
-                 │ Metrics • Tests  │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │    DEPLOYMENT    │
-                 │ Streamlit • MLOps│
-                 └──────────────────┘
+┌──────────────┐    ┌──────────────────┐    ┌────────────────┐
+│   RAW DATA   │ →  │ DATA PROCESSING  │ →  │   ML / MODEL   │
+│              │    │ Pandas • NumPy   │    │ Sklearn • TF   │
+└──────────────┘    └──────────────────┘    └───────┬────────┘
+                                                     ↓
+                              ┌──────────────────────┴─────────┐
+                              │                                │
+                     ┌────────▼────────┐              ┌────────▼────────┐
+                     │   EVALUATION    │      →       │   DEPLOYMENT    │
+                     │ Metrics • Tests │              │ Streamlit • MLOps│
+                     └─────────────────┘              └─────────────────┘
 ```
 
 ---

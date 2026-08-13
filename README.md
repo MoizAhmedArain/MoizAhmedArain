@@ -264,11 +264,11 @@ I'm always interested in **AI/ML, Data Science, software engineering, internship
 <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=google-chrome&logoColor=050A0F"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/moizahmedarain/">
 <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=050A0F"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:moizahmed2023@gmail.com">
 <img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=050A0F"/>
 </a>
 

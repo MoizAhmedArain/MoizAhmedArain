@@ -192,9 +192,13 @@ Database Design • Queries • Data Management
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MoizAhmedArain&show_icons=true&hide_border=true&bg_color=050A0F&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" height="170"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoizAhmedArain&layout=compact&hide_border=true&bg_color=050A0F&title_color=00C6FF&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MoizAhmedArain&show_icons=true&hide_border=true&bg_color=050A0F&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF&cache_seconds=86400" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoizAhmedArain&layout=compact&hide_border=true&bg_color=050A0F&title_color=00C6FF&text_color=FFFFFF&cache_seconds=86400" height="170"/>
+
+</div>
 
 <br/>
 

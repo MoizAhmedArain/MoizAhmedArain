@@ -2,7 +2,7 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?stype=waving&color=0:050A0F,50:071D2B,100:00C6FF&height=220&section=header&text=MOIZ%20AHMED&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20DATA%20SCIENCE%20%7C%20&descAlignY=58&descSize=17&descColor=7DE3FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,50:071D2B,100:00C6FF&height=220&section=header&text=MOIZ%20AHMED&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20DATA%20SCIENCE&descAlignY=58&descSize=17&descColor=7DE3FF" width="100%"/>
 
 ### `Turning Data → Intelligence → Solutions`
 

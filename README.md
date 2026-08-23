@@ -32,19 +32,6 @@ I enjoy taking a problem from:
 
 and turning it into something people can actually use.
 
-```text
-┌──────────────┐    ┌──────────────────┐    ┌────────────────┐
-│   RAW DATA   │ →  │ DATA PROCESSING  │ →  │   ML / MODEL   │
-│              │    │ Pandas • NumPy   │    │ Sklearn • TF   │
-└──────────────┘    └──────────────────┘    └───────┬────────┘
-                                                     ↓
-                              ┌──────────────────────┴─────────┐
-                              │                                │
-                     ┌────────▼────────┐              ┌────────▼────────┐
-                     │   EVALUATION    │      →       │   DEPLOYMENT    │
-                     │ Metrics • Tests │              │ Streamlit • MLOps│
-                     └─────────────────┘              └─────────────────┘
-```
 
 ---
 
@@ -180,31 +167,15 @@ Database Design • Queries • Data Management
 
 <div align="center">
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MoizAhmedArain&theme=dark&hide_border=true&background=050A0F&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MoizAhmedArain&bg_color=050A0F&color=7DE3FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Moiz%20Ahmed's%20GitHub%20Activity"
+  width="100%"
+  alt="Moiz Ahmed's GitHub Activity Graph"
+/>
 
 </div>
 
 ---
-
-# 🧭 Currently Exploring
-
-```text
-AI Agents
-    │
-    ├── Intelligent Automation
-    │
-    ├── LLM-powered Applications
-    │
-    └── Agentic Workflows
-             │
-             ↓
-       MLOps & Deployment
-             │
-             ↓
-       Production AI Systems
-```
 
 I'm currently expanding my knowledge toward **AI Agents, MLOps, backend engineering and production-ready AI systems**.
 

@@ -176,8 +176,8 @@ Database Design • Queries • Data Management
 </div>
 
 ---
-
-I'm currently expanding my knowledge toward **AI Agents, MLOps, backend engineering and production-ready AI systems**.
+ # Currently Focus
+I am currently expanding my knowledge toward **AI Agents, MLOps, backend engineering and production-ready AI systems**.
 
 ---
 
